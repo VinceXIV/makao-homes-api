@@ -1,2 +1,0 @@
-class SellerSessionsController < ApplicationController
-end

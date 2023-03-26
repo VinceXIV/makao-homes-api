@@ -74,3 +74,5 @@ end
 gem "bcrypt", "~> 3.1"
 
 gem "faker", "~> 3.1"
+
+gem "byebug", "~> 11.1"
